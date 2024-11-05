@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on start-ups, cool projects<br>🤝 I’m looking for help with Flutter, Spring and money<br>🌱 I’m currently learning Flutter, Typescript, NestJs, Spring Boot
+🔭 I’m currently working on myself<br>👯 I’m looking to collaborate on start-ups, cool projects<br>🤝 I’m looking for help with Flutter, Spring and Money<br>🌱 I’m currently learning Flutter, Typescript, NestJs, Spring Boot, HLD
 
 
 ## 🌐 Socials:
